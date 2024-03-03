@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\雲端硬碟2\課業\大四上\數位影像處理\hw2\hw2\main.cpp(6,42): warning C4101: 'hist4': 未參考的區域變數
+  hw2.vcxproj -> D:\雲端硬碟2\課業\大四上\數位影像處理\hw2\x64\Debug\hw2.exe
